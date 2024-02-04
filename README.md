@@ -10,6 +10,7 @@
 - 📫 You can find me on other platforms as well:
    - LinkedIn: https://www.linkedin.com/in/ishwar-singh-bhandari-29b209212/
    - Instagram: https://www.instagram.com/ishwar__singh__bhandari/
+   - Portfolio: https://ishwarsinghbhandari.netlify.app/
 
 <!---
 IshwarSinghBhandari/IshwarSinghBhandari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
